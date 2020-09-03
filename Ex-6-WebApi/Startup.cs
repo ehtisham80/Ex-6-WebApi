@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 
 using Ex_6_WebApi.Models;
 using Microsoft.EntityFrameworkCore;
-//Error while generatign controllers .....
+//Error while generatign controllers ..... Error is fixed now
 namespace Ex_6_WebApi
 {
     public class Startup
